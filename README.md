@@ -3,7 +3,7 @@
 -  I am working as a Test Automation Engineer in Nextlabs Malaysia
 -  Currently using Robot Framework and Selenium 2 to automate the testing process for both UI and API testing of the website
 -  Trying to break into Web Dev by self studying after works. 
--  Can reach me @ kerchuah@hotmail.com
+-  Can reach me @ kerchuah@gmail.com
 
 <!---
 ShangKerChuah/ShangKerChuah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
